@@ -27,5 +27,5 @@ elif("roll2" in input):
 elif("roll1" in input):
       print rnd.randint(1,6)
     else:
-        print "Please Type Roll"
+      print "Please Type Roll"
         
