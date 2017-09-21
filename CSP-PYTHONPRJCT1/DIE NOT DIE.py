@@ -4,7 +4,7 @@
 #roll 4 = 4 dices
 #roll 5 = you get the point
 import random as rnd
-while(True):
+
     input = str.lower(raw_input("Type Roll"))
 if("roll5" in input):
       print rnd.randint(1,6)  
