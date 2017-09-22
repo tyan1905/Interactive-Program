@@ -15,7 +15,6 @@ if("roll" in input1):
     print rnd.randint(1,6)
     print rnd.randint(1,6)
     print rnd.randint(1,6)
-while(True):
 else:
     print "Please Type Roll"
 input2 = str.lower(raw_input("2nd Roll,Type the desired amount of dice to be rolled (1-5)"))
